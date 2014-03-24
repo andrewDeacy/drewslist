@@ -1,0 +1,132 @@
+@font-face {
+	font-family: Fran;
+	src: url('fran.ttf');
+}
+
+@font-face {
+	font-family: Script;
+	src: url('script.ttf');
+}
+
+@font-face {
+	font-family: Stamp;
+	src: url('stamp.ttf');
+}
+
+@font-face {
+	font-family: Nim;
+	src: url('nimiran.ttf');
+}
+
+@font-face {
+	font-family: Basic;
+	src: url('basic.ttf');
+}
+
+@font-face {
+	font-family: Basic2;
+	src: url('basic2.ttf');
+}
+
+@font-face {
+	font-family: baba;
+	src: url('baba.otf');
+}
+
+@font-face {
+	font-family: current;
+	src: url('current.ttf');
+}
+
+.logo{
+font-size: 235%;
+line-height: 135%;
+font-weight: 500;
+font-family: "times new roman",times,serif;
+width: 100%;
+}
+.side{
+margin-left: 15%;
+}
+.main{
+margin-left:25%;
+
+z-index:0;
+}
+
+.font{
+font-family: Fran, sans-serif;
+font-size:400px;
+color:#BDAFAF;
+line-height:27%;
+z-index:0;
+position:absolute;
+}
+
+.script{
+font-family: Script, sans-serif;
+color: #3D3434;
+font-size:45px;
+line-height:60%;
+z-index:5;
+
+}
+
+.green{
+font-family: Stamp, sans-serif;
+color:#65C44D;
+font-size:300%;
+transform:rotate(-7deg);
+padding-left:150px;
+padding-top:10px;
+}
+
+.green2{
+font-family: Stamp, sans-serif;
+color:#65C44D;
+font-size:300%;
+}
+
+.nim{
+font-family: Nim, sans-serif;
+font-size:72px;
+color:#DC331A;
+line-height:80%;
+}
+
+.big{
+font-family: Nim, sans-serif;
+font-size:500px;
+color:#8A7576;
+padding-left:550px;
+position: absolute;
+}
+
+.basic{
+font-family: baba, sans-serif;
+font-size: 235%;
+line-height: 95%;
+font-weight: 500;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.rentBig{
+font-family: baba, sans-serif;
+font-size:270px;
+padding-top:15px;
+}
+
+.rentSmall{
+font-family: baba, sans-serif;
+font-size:32px;
+padding-top:25px;
+padding-left:275px;
+}
+
+.listings{
+font-family: current, sans-serif;
+font-size:32px;
+line-height: 60%;
+}
+
